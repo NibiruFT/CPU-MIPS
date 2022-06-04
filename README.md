@@ -9,7 +9,7 @@ Implementação, em verilog, de uma CPU MIPS de ciclo único totalmente funciona
 ### Sprint 1
 
 1. Setup do ambiente de trabalho individual:
-  * Crie o diretório “c:\LASD\20XX.X\SEUNOME_MATRICULA”. Cada aluno deverá usar o mesmo computador em todas as aulas do LASD. Sempre salvar seus arquivos nessa pasta;
+  * Crie o diretório “c:\Quartus_II”. Cada aluno deverá usar o mesmo computador em todas as aulas do LASD. Sempre salvar seus arquivos nessa pasta;
   * Abra o Quartus II 13.0;
   * Menu “File -> New Project Wizard”;
   * Crie o Projeto, com nome “Mod_Teste”, no seu diretório;
