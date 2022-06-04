@@ -6,7 +6,7 @@ Implementação, em verilog, de uma CPU MIPS de ciclo único totalmente funciona
 >
 >  **Nota**: O simulador é pesado e pode rodar extramamente lento dependendo do seu PC.
 
-# Sprints
+### Sprints
 
 Esse macro projeto será subdividido em aproximadamente 10 sprints. Em cada sprint será implementado um novo componente da CPU.
 
