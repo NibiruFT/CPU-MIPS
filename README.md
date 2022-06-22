@@ -14,3 +14,7 @@ Esse macro projeto será subdividido em aproximadamente 10 sprints. Em cada spri
 - Sprint 4
 - Sprint 5
 - Sprint 6
+- Sprint 7
+- Sprint 8
+- Sprint 9
+- Sprint 10
