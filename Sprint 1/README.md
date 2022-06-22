@@ -1,4 +1,4 @@
-#### Sprint 1 - Primeiro Projeto no Quartus II
+# Sprint 1 - Primeiro Projeto no Quartus II
 
 > **Descrição geral do problema**: Criar o primeiro projeto no Quartus II e implementar uma Unidade Lógica e Aritmética (ULA) com 2 operações. Soma e Subtração.
 
