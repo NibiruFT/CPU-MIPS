@@ -9,7 +9,7 @@
 	- d) Crie o Projeto, com nome **“Mod_Teste”**, no seu diretório; 
 	- e) Ignore o pedido de inclusão de arquivos já existentes; 
 	- f) Selecione a família **Cyclone II**, FPGA **EP2C35F672C6** e finish; 
-	- g) Copie os seguintes arquivos, da pasta code, para a pasta local do seu projeto: 
+	- g) Copie os seguintes arquivos, da pasta [code](https://github.com/NibiruFT/CPU-MIPS/tree/main/Sprint%201/code), para a pasta local do seu projeto: 
 		- **Mod_Teste.v, LCD_TEST2.v, LCD_CONTROLLER.v e DE2_PIN_ASSIGNMENT.CSV** 
 	- h) Use o menu **“Assignments > import assignment”** para incluir o arquivo **DE2_PIN_ASSIGNMENT.CSV** 
 	- i) Adicione, em seu projeto, os arquivos **.v** do passo g). Na janela **“Project Navigator > Files > Botão direito > Add Remove files in project”**. Selecione os arquivos, Add All e OK
