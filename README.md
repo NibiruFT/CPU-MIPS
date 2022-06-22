@@ -10,3 +10,9 @@ Implementação, em verilog, de uma CPU MIPS de ciclo único totalmente funciona
 
 Esse macro projeto será subdividido em aproximadamente 10 sprints. Em cada sprint será implementado um novo componente da CPU.
 
+- Sprint 1
+- Sprint 2
+- Sprint 3
+- Sprint 4
+- Sprint 5
+- Sprint 6
