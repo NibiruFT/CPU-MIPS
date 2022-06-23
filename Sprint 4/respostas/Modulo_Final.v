@@ -37,17 +37,16 @@ LCD_TEST MyLCD (
 wire[7:0] D0, D1, D2, D3, D4, D5, D6, D7;
 wire [7:0] w_rd1SrcA, w_rd2, w_SrcB, w_ULAResultWd3;
 
-RegisterFile MyFile(.wa3(SW[16:14]), .clk(KEY[1]), .ra1(SW[13:11]), .wd3(SW[7:0]),						  
-						  .rd1(w_rd1SrcA),.rd2(w_rd2));
+RegisterFile MyFile(.wa3(SW[16:14]), .clk(KEY[1]), .ra1(SW[13:11]), .wd3(SW[7:0]), .rd1(w_rd1SrcA),.rd2(w_rd2));
 MuxULASrc M1(.D1(8'h07), .D0(w_rd2), .S(SW[17]), .SrcB(w_SrcB));
-ULA U1(.SrcA(w_rd1SrcA), .SrcB(w_SrcB), .ULAControl(SW[10:8]),        
-		 .ULAResult(w_d0x4[7:0]), .flagZ(LEDG[0]));
+ULA U1(.SrcA(w_rd1SrcA), .SrcB(w_SrcB), .ULAControl(SW[10:8]), .ULAResult(w_d0x4[7:0]), .flagZ(LEDG[0]));
 
 assign w_d0x0[7:0] = w_rd1SrcA;
 assign w_d1x0[7:0] = w_rd2;
 assign w_d1x1[7:0] = w_SrcB;
 assign LEDG[8] = KEY[1];
-hexto7segment hex0(.x(SW[3:0]), .z(HEX0[0:6]));hexto7segment hex1(.x(SW[7:4]), .z(HEX1[0:6]));
+hexto7segment hex0(.x(SW[3:0]), .z(HEX0[0:6]));
+hexto7segment hex1(.x(SW[7:4]), .z(HEX1[0:6]));
 
 endmodule
 
