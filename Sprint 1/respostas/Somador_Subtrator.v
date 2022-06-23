@@ -39,6 +39,7 @@ som_sub meuSC (.a(SW[3:0]), .b(SW[7:4]), .sel(SW[17]), .res(LEDR[3:0]) );
 
 endmodule
 
+//Criação do módulo Somador/Subtrator
 module som_sub(input [3:0] a, b,input sel, output reg[3:0] res);
 	//assign res = a+b;
 	always @ *begin
