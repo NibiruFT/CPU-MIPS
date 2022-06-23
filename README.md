@@ -1,3 +1,9 @@
+
+<p align="center">
+        <img src="https://www.mips.com/wp-content/uploads/2022/05/smart-microchip-background-3.jpg">
+    </a>
+</p>
+
 # CPU-MIPS
 Implementação, em verilog, de uma CPU MIPS de ciclo único totalmente funcional. A CPU será capaz de rodar, no mínimo, 10 instruções em assembly. Com isso, você poderá programa-la em assembly ou até em C. 
 
