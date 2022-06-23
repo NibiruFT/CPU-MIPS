@@ -1,6 +1,7 @@
 # Sprint 2 - Revisão de Verilog - Blocos Construtivos
 
-> **Descrição geral do problema**: Criar o primeiro projeto no Quartus II e implementar uma Unidade Lógica e Aritmética (ULA) com 2 operações. Soma e Subtração.
+> **Descrição geral do problema**: Seguindo a revisão de verilog, implemente um circuito que conte o tempo entre 0 e 9s e
+mostre em um display de 7 segmentos.
 > 
 > **Nota 1**: [Vídeo Explicativo](https://www.youtube.com/watch?v=rih3KcWvHJA) pelo Prof. Rafael.
 > 
