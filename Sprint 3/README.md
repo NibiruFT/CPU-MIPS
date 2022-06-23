@@ -4,7 +4,7 @@
 > 
 > **Nota 1**: [Vídeo Explicativo](https://youtu.be/6_5oKYGEvMg) pelo Prof. Rafael.
 > 
-> **Nota 2**: [PDF](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%201/images/Sprint_1.pdf)
+> **Nota 2**: [PDF](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%203/images/Sprint3%20-%20Banco%20de%20registradores%20-%20CPU%20MIPS.pdf)
 
 1. Faça a descrição de hardware de um módulo, denominado RegisterFile, que gere o circuito indicado na Figura 1, usando a linguagem Verilog.
 	- O módulo apresenta as seguintes entradas e saídas: 
