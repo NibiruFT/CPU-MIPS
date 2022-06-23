@@ -22,7 +22,6 @@
         <img src="https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%202/images/Decod_Hexa_7seg.png?raw=true">
     </a>
 </p>
-	- d) Dica: pesquise sobre a estrutura case. Implemente a lógica de funcionamento em alto nível.
 	
 3. Implemente um módulo divisor de frequência para gerar um clock de 1Hz a partir do clock de 50MHz disponível na placa DE2 (CLOCK_50). 
 	- a) Esse circuito é basicamente um contador de pulsos do clock de entrada, que inverte sua saída cada vez que uma condição é atingida. 
