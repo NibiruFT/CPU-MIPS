@@ -1,8 +1,7 @@
 # Sprint 1 - Primeiro Projeto no Quartus II
 
 > **Descrição geral do problema**: Criar o primeiro projeto no Quartus II e implementar uma Unidade Lógica e Aritmética (ULA) com 2 operações. Soma e Subtração.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bxOywhFKAqA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> Nota: [Explicação prof. Rafael](https://www.youtube.com/watch?v=bxOywhFKAqA&t=5s)
 
 1. Setup do ambiente de trabalho:
 	- Crie o diretório **"c:\Quartus_II\Projeto"**;
