@@ -40,7 +40,8 @@
         <img src="https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%202/images/Cont_M10.png?raw=true">
     </a>
 </p>
-- b) Para testar seu módulo, implemente a seguinte montagem final, envolvendo todos os outros blocos implementados anteriormente:
+
+b) Para testar seu módulo, implemente a seguinte montagem final, envolvendo todos os outros blocos implementados anteriormente:
 	
 <p align="center">
         <img src="https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%202/images/Modulo_Final.png?raw=true">
