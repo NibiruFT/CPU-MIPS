@@ -32,3 +32,9 @@
 	- Efetue novamente as operações: 
 		- Add ____, Sub____, And____, Or____ e SLT____ 
 	- Verifique o funcionamento do flag Z.
+
+# Respostas
+
+- Módulo do [MUX](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%204/respostas/MuxULASrc.v);
+- Módulo da [ULA](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%204/respostas/ULA.v);
+- Módulo [Mod_Teste](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%204/respostas/Modulo_Final.v).
