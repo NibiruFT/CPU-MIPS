@@ -11,7 +11,7 @@ Esse macro projeto será subdividido em aproximadamente 10 sprints. Em cada spri
 - [Sprint 1](https://github.com/NibiruFT/CPU-MIPS/tree/main/Sprint%201): Primeiro Projeto
 - [Sprint 2](https://github.com/NibiruFT/CPU-MIPS/tree/main/Sprint%202): Revisão de Verilog - Blocos Construtivos
 - [Sprint 3](https://github.com/NibiruFT/CPU-MIPS/tree/main/Sprint%203): Banco de Registradores
-- Sprint 4
+- [Sprint 4](https://github.com/NibiruFT/CPU-MIPS/tree/main/Sprint%204): Unidade Lógica e Aritmética (ULA)
 - Sprint 5
 - Sprint 6
 - Sprint 7
