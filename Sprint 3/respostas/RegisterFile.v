@@ -36,11 +36,10 @@ LCD_TEST MyLCD (
 //---------- modifique a partir daqui --------
 RegisterFile MyFile(.wa3(SW[16:14]), .we3(SW[17]), .clk(KEY[1]), .ra1(SW[13:11]), .ra2(SW[10:8]), .wd3(SW[7:0]),							
 						  .rd1(w_d0x0[7:0]),.rd2(w_d0x1[7:0]));
+
+//Ligações Auxiliares, utilizando o hexto7segment da Sprint 2	
 assign LEDG[8] = KEY[1];
 hexto7segment hex0(.x(SW[3:0]), .z(HEX0[0:6]));hexto7segment hex1(.x(SW[7:4]), .z(HEX1[0:6]));
-
-Regist_ULA MyRegULA(.wa3(SW[16:14]), .ra1(SW[13:11]), .ULAControl(SW[10:8]), .wd3(SW[7:0]), 							
-						  .ULAResult(w_d0x4[7:0]), .flagZ(LEDG[0]));
 
 endmodule
 
