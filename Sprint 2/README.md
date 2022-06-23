@@ -4,9 +4,16 @@
 > 
 > **Nota 1**: [Vídeo Explicativo](https://www.youtube.com/watch?v=rih3KcWvHJA) pelo Prof. Rafael.
 > 
-> **Nota 2**: [PDF](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%201/images/Sprint_1.pdf)
+> **Nota 2**: [PDF](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%202/images/Sprint2%20-%20Rev%20verilog%20-%20Blocos%20construtivos.pdf)
  
 1. Faça um assign entre os leds do display de 7 segmentos `HEX0[0:6]` e as chaves `SW[6:0]`. Varie as chaves e observe qual segmento está associado a cada **wire** de `HEX0`.
+
+<p align="center">
+    <a href="https://github.com/3b1b/manim">
+        <img src="https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%202/images/7Segment.png?raw=true">
+    </a>
+</p>
+
 2. Projete um decodificador de hexadecimal para 7 segmentos. 
 	- a) Crie o decodificador em uma estrutura de módulo. Para facilitar o reuso, salve-o em um arquivo **.v** separado. 
 	- b) O decodificador deve possuir uma entrada de 4bits, para entrar um número em hexa e uma saída de 7bits para conectar um display de 7 segmentos e poder visualizar o número. 
