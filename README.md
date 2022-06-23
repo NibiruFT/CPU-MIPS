@@ -1,11 +1,12 @@
 
+# CPU-MIPS
+Implementação, em verilog, de uma CPU MIPS de ciclo único totalmente funcional. A CPU será capaz de rodar, no mínimo, 10 instruções em assembly. Com isso, você poderá programa-la em assembly ou até em C. 
+
 <p align="center">
         <img src="https://www.mips.com/wp-content/uploads/2022/05/smart-microchip-background-3.jpg">
     </a>
 </p>
 
-# CPU-MIPS
-Implementação, em verilog, de uma CPU MIPS de ciclo único totalmente funcional. A CPU será capaz de rodar, no mínimo, 10 instruções em assembly. Com isso, você poderá programa-la em assembly ou até em C. 
 
 ## Instalação Quartus II
 > A instalação do simulador é gratis e pode ser feita através do link [Intel® Quartus® II](https://www.intel.com/content/www/us/en/software-kit/711791/intel-quartus-ii-web-edition-design-software-version-13-0sp1-for-windows.html).
