@@ -2,7 +2,7 @@
 
 > **Descrição geral do problema**: Implemente uma ULA com 5 operações lógicas/aritméticas e associe-a às saídas do seu banco de registradores.
 > 
-> **Nota 1**: [Vídeo Explicativo](https://www.youtube.com/watch?v=0OlZwGGVd30) pelo Prof. Rafael.
+> **Nota 1**: [Vídeo Explicativo](https://www.youtube.com/watch?v=0OlZwGGVd30) feito pelo Prof. Rafael.
 > 
 > **Nota 2**: [PDF](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%204/images/Sprint4%20-%20ULA%20-%20CPU%20MIPS.pdf)
 
