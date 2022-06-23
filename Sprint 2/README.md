@@ -9,7 +9,6 @@
 1. Faça um assign entre os leds do display de 7 segmentos `HEX0[0:6]` e as chaves `SW[6:0]`. Varie as chaves e observe qual segmento está associado a cada **wire** de `HEX0`.
 
 <p align="center">
-    <a href="https://github.com/3b1b/manim">
         <img src="https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%202/images/7Segment.png?raw=true">
     </a>
 </p>
