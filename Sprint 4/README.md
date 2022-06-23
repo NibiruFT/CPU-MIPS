@@ -35,6 +35,7 @@
 
 # Respostas
 
-- Módulo do [MUX](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%204/respostas/MuxULASrc.v);
-- Módulo da [ULA](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%204/respostas/ULA.v);
-- Módulo [Mod_Teste](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%204/respostas/Modulo_Final.v).
+2. Seguindo as configurações mostradas na Figura 2:
+	- Módulo do [MUX](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%204/respostas/MuxULASrc.v);
+	- Módulo da [ULA](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%204/respostas/ULA.v);
+	- Módulo [Mod_Teste](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%204/respostas/Modulo_Final.v).
