@@ -33,3 +33,8 @@
 		- ii. 4’d15 + 4’d2 = ______ (decimal) ou ______ (binário) 
 		- iii. 4’d7 - 4’d3 = ______ (decimal) ou ______ (binário) 
 		- iv. 4’d7 - 4’d8 = ______ (decimal) ou ______ (binário)
+
+# Respostas
+
+2. [Primeiro Código](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%201/respostas/Primeiro_Codigo.v)
+3. [Circuito Somador/Subtrator](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%201/respostas/Somador_Subtrator.v)
