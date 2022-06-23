@@ -2,7 +2,7 @@
 
 > **Descrição geral do problema**: Implemente um banco com 8 registradores de 8 bits. Esse banco deverá possuir um barramento de escrita síncrono (dados + endereço) e dois barramentos de leitura combinacionais (dados + endereços)
 > 
-> **Nota 1**: [Vídeo Explicativo](https://youtu.be/6_5oKYGEvMg) pelo Prof. Rafael.
+> **Nota 1**: [Vídeo Explicativo](https://youtu.be/6_5oKYGEvMg) feito pelo Prof. Rafael.
 > 
 > **Nota 2**: [PDF](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%203/images/Sprint3%20-%20Banco%20de%20registradores%20-%20CPU%20MIPS.pdf)
 
