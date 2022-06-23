@@ -2,7 +2,7 @@
 
 > **Descrição geral do problema**: Criar o primeiro projeto no Quartus II e implementar uma Unidade Lógica e Aritmética (ULA) com 2 operações. Soma e Subtração.
 > 
-> **Nota**: [Introdução Prof. Rafael](https://www.youtube.com/watch?v=bxOywhFKAqA&t=5s)
+> **Nota**: [Vídeo Explicativo](https://www.youtube.com/watch?v=bxOywhFKAqA&t=5s) pelo Prof. Rafael.
 
 1. Setup do ambiente de trabalho:
 	- Crie o diretório **"c:\Quartus_II\Projeto"**;
