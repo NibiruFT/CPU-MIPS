@@ -18,6 +18,7 @@ module ULA (input [7:0] SrcA, SrcB, input [2:0] ULAControl,
 		end			
 		else				
 			flagZ = 0;	
-endendmodule
+		end
+endmodule
 
 				
