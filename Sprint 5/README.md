@@ -8,4 +8,10 @@
 
 # Respostas
 
-
+1. Seguindo as configurações mostradas na Figura 4:
+	- Módulo da [Unidade de Controle](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%205/respostas/Uni_Controle.v);
+	- Módulo [PC](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%205/respostas/Regist_PC.v);
+	- Módulo [Adder_1](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%205/respostas/Adder_1.v);
+	- Módulo do [Instrução de Memória](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%205/respostas/Instr_Mem.v);
+	- Módulo do [MuxWR](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%205/respostas/MuxWR.v);
+	- Módulo [Mod_Teste](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%205/respostas/Mod_Teste.v);
