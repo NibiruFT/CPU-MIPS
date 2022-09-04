@@ -20,7 +20,7 @@ Esse macro projeto será subdividido em aproximadamente 10 sprints. Em cada spri
 - [Sprint 3](https://github.com/NibiruFT/CPU-MIPS/tree/main/Sprint%203): Banco de Registradores
 - [Sprint 4](https://github.com/NibiruFT/CPU-MIPS/tree/main/Sprint%204): Unidade Lógica e Aritmética (ULA)
 - [Sprint 5](https://github.com/NibiruFT/CPU-MIPS/tree/main/Sprint%205): Unidade de Controle
-- Sprint 6
+- [Sprint 6](https://github.com/NibiruFT/CPU-MIPS/tree/main/Sprint%206): Memórias
 - Sprint 7
 - Sprint 8
 - Sprint 9
