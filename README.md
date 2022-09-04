@@ -23,5 +23,5 @@ Esse macro projeto será subdividido em aproximadamente 10 sprints. Em cada spri
 - [Sprint 6](https://github.com/NibiruFT/CPU-MIPS/tree/main/Sprint%206): Memórias
 - [Sprint 7](https://github.com/NibiruFT/CPU-MIPS/tree/main/Sprint%207): Instruções de Desvio
 - [Sprint 8](https://github.com/NibiruFT/CPU-MIPS/tree/main/Sprint%208): Entrada/Saída Paralela
-- Sprint 9
+- [Sprint 9](https://github.com/NibiruFT/CPU-MIPS/tree/main/Sprint%209): Programação em Assembly
 - Sprint 10
