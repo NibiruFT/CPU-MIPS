@@ -13,4 +13,5 @@ condicional (BEQ) e incondicional (J).
   - Módulo do [Adder Branch](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%207/respostas/Adder_Branch.v);
   - Módulo do [MuxPCSrc](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%207/respostas/MuxPCSrc.v);
   - Módulo do [MuxJump](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%207/respostas/MuxJump.v);
+  - Módulo [Porta AND](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%207/respostas/PortaAND.v);
   - Módulo [Mod_Teste](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%207/respostas/Mod_Teste.v);
