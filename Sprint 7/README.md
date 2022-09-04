@@ -1,4 +1,4 @@
-# Sprint 7 – Desvios
+# Sprint 7 – Instruções de Desvios
 
 > **Descrição geral do problema**: Modifique o circuito de avanço do PC para incluir as instruções de desvio
 condicional (BEQ) e incondicional (J).
