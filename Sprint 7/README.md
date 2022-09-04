@@ -15,3 +15,8 @@ condicional (BEQ) e incondicional (J).
   - Módulo do [MuxJump](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%207/respostas/MuxJump.v);
   - Módulo [Porta AND](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%207/respostas/PortaAND.v);
   - Módulo [Mod_Teste](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%207/respostas/Mod_Teste.v);
+
+2. Para facilitar a criação de novos programas, utilize o executável
+MIPS_Assembler2.exe para converter seus códigos de assembly para código de máquina.
+
+  - Copie o executável desse [LINK](https://drive.google.com/file/d/1Dcdsc8Fy5DYD08BKTSllc-cblkXqqHu4/view) para a pasta local do seu projeto.
