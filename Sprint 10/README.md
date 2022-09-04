@@ -11,7 +11,7 @@ processador MIPS e utiliza-lo em uma aplicação prática. A criatividade será 
 
 > **Descrição do projeto**: [Jogo da Velha](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%2010/images/Sprint%2010%20(1).pdf)
 >
-> **Nota 1**: [Vídeo Explicativo](https://drive.google.com/file/d/1Vd1tH8Jyzs-5ZHSOEnIuy79pXlHDQCXy/view)
+> **Nota 3**: [Vídeo Explicativo](https://drive.google.com/file/d/1Vd1tH8Jyzs-5ZHSOEnIuy79pXlHDQCXy/view)
 
 - [LCD Controller](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%2010/respostas/LCD_Controller.v)
 - [LCD Test](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%2010/respostas/LCD_TEST.v)
