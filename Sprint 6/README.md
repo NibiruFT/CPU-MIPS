@@ -12,4 +12,4 @@ possibilitará o uso das instruções LW e SW.
 
 1. Seguindo as configurações mostradas na Figura 1:
   - Módulo do [MuxDDest](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%206/respostas/MuxDDest.v);
-  - Módulo [Mod_Teste](https://github.com/NibiruFT/CPU-	MIPS/blob/main/Sprint%206/respostas/Mod_Teste.v);
+  - Módulo [Mod_Teste](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%206/respostas/Mod_Teste.v);
