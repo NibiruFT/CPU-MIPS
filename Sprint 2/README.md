@@ -9,5 +9,8 @@ mostre em um display de 7 segmentos.
 
 # Respostas
 
-4. [Contador Módulo 10](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%202/respostas/Montagem_Final.v)
+1. [HEX para 7segment](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%202/respostas/hexto7segment.v)
+2. [Divisor de Frequência](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%202/respostas/div_freq.v)
+3. [Contador M10](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%202/respostas/cont_M10.v)
+4. [Mod_Teste Final](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%202/respostas/Montagem_Final.v)
 
