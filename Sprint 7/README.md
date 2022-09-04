@@ -1,9 +1,9 @@
-# Sprint 6 - Instruções de desvio
+# Sprint 7 – Desvios
 
 > **Descrição geral do problema**: Modifique o circuito de avanço do PC para incluir as instruções de desvio
 condicional (BEQ) e incondicional (J).
 > 
-> **Nota 1**: [Vídeo Explicativo](https://www.youtube.com/watch?v=O593XZox_K0) pelo Prof. Rafael.
+> **Nota 1**: [Vídeo Explicativo](https://www.youtube.com/watch?v=O593XZox_K0&t=1s) pelo Prof. Rafael.
 > 
 > **Nota 2**: [PDF](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%207/images/Sprint7%20-%20Desvios%20-%20CPU%20MIPS.pdf)
 
