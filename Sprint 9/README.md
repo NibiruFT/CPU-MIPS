@@ -11,3 +11,4 @@ resolver os problemas propostos e em seguida rode-os no seu próprio processador
 # Respostas
 
 - [Código Assembly](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%209/respostas/Assembly%20Code.rtf)
+- Modulo [Mod_Teste](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%209/respostas/Mod_Teste.v)
