@@ -1,4 +1,4 @@
-# Sprint 8 – Programação em Assembly
+# Sprint 9 – Programação em Assembly
 
 > **Descrição geral do problema**: Agora que o hardware do seu processador MIPS já está pronto, você pode
 programa-lo, em assembly, como qualquer outro microcontrolador. Escreva códigos, em assembly, para
