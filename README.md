@@ -1,6 +1,6 @@
 
 # CPU-MIPS
-Implementação, em verilog, de uma CPU MIPS de ciclo único totalmente funcional. A CPU será capaz de rodar, no mínimo, 10 instruções em assembly. Com isso, você poderá programa-la em assembly ou até em C. 
+Verilog implementation of a fully functional single-cycle MIPS CPU. The CPU will be able to run at least 10 assembly instructions. You can then program it in assembly or even C. 
 
 <p align="center">
         <img src="https://www.mips.com/wp-content/uploads/2022/05/smart-microchip-background-3.jpg">
@@ -8,20 +8,21 @@ Implementação, em verilog, de uma CPU MIPS de ciclo único totalmente funciona
 </p>
 
 
-## Instalação Quartus II
-> A instalação do simulador é gratis e pode ser feita através do link [Intel® Quartus® II](https://www.intel.com/content/www/us/en/software-kit/711791/intel-quartus-ii-web-edition-design-software-version-13-0sp1-for-windows.html).
+## Quartus II Installation
+> The simulator is free to install and can be downloaded from the following link [Intel® Quartus® II](https://www.intel.com/content/www/us/en/software-kit/711791/intel-quartus-ii-web-edition-design-software-version-13-0sp1-for-windows.html).
 
 ## Sprints
 
-Esse macro projeto será subdividido em aproximadamente 10 sprints. Em cada sprint será implementado um novo componente da CPU.
+This macro project will be subdivided into approximately 10 sprints. A new CPU component will be implemented in each sprint.
 
-- [Sprint 1](https://github.com/NibiruFT/CPU-MIPS/tree/main/Sprint%201): Primeiro Projeto
-- [Sprint 2](https://github.com/NibiruFT/CPU-MIPS/tree/main/Sprint%202): Revisão de Verilog - Blocos Construtivos
-- [Sprint 3](https://github.com/NibiruFT/CPU-MIPS/tree/main/Sprint%203): Banco de Registradores
-- [Sprint 4](https://github.com/NibiruFT/CPU-MIPS/tree/main/Sprint%204): Unidade Lógica e Aritmética (ULA)
-- [Sprint 5](https://github.com/NibiruFT/CPU-MIPS/tree/main/Sprint%205): Unidade de Controle
-- [Sprint 6](https://github.com/NibiruFT/CPU-MIPS/tree/main/Sprint%206): Memórias
-- [Sprint 7](https://github.com/NibiruFT/CPU-MIPS/tree/main/Sprint%207): Instruções de Desvio
-- [Sprint 8](https://github.com/NibiruFT/CPU-MIPS/tree/main/Sprint%208): Entrada/Saída Paralela
-- [Sprint 9](https://github.com/NibiruFT/CPU-MIPS/tree/main/Sprint%209): Programação em Assembly
-- [Sprint 10](https://github.com/NibiruFT/CPU-MIPS/tree/main/Sprint%2010): Novas Funcionalidades
+- [Sprint 1](https://github.com/NibiruFT/CPU-MIPS/tree/main/Sprint%201): First Project
+- [Sprint 2](https://github.com/NibiruFT/CPU-MIPS/tree/main/Sprint%202): Verilog Review - Building Blocks
+- [Sprint 3](https://github.com/NibiruFT/CPU-MIPS/tree/main/Sprint%203): Bank of Registers
+- [Sprint 4](https://github.com/NibiruFT/CPU-MIPS/tree/main/Sprint%204): Logic and Arithmetic Unit (ALU)
+- [Sprint 5](https://github.com/NibiruFT/CPU-MIPS/tree/main/Sprint%205): Control Unit
+- [Sprint 6](https://github.com/NibiruFT/CPU-MIPS/tree/main/Sprint%206): Memory
+- [Sprint 7](https://github.com/NibiruFT/CPU-MIPS/tree/main/Sprint%207): Detour instructions
+- [Sprint 8](https://github.com/NibiruFT/CPU-MIPS/tree/main/Sprint%208): Parallel Input/Output
+- [Sprint 9](https://github.com/NibiruFT/CPU-MIPS/tree/main/Sprint%209): Programming in Assembly
+- [Sprint 10](https://github.com/NibiruFT/CPU-MIPS/tree/main/Sprint%2010): New features
+- [Final Project](https://drive.google.com/file/d/1Vd1tH8Jyzs-5ZHSOEnIuy79pXlHDQCXy/view): Tic-tac-toe game
