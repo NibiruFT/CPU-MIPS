@@ -1,22 +1,21 @@
-# Sprint 7 – Instruções de Desvios
+# Sprint 7 – Detour instructions
 
-> **Descrição geral do problema**: Modifique o circuito de avanço do PC para incluir as instruções de desvio
-condicional (BEQ) e incondicional (J).
+> **General description of the problem**: Modify the PC's feedforward circuit to include the conditional (BEQ) and unconditional (J) bypass instructions. (BEQ) and unconditional (J) instructions.
 > 
-> **Nota 1**: [Vídeo Explicativo](https://www.youtube.com/watch?v=O593XZox_K0&t=1s) pelo Prof. Rafael.
+> **Note 1**: [Video](https://www.youtube.com/watch?v=O593XZox_K0&t=1s) (Portuguese) by Prof. Rafael.
 > 
-> **Nota 2**: [PDF](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%207/images/Sprint7%20-%20Desvios%20-%20CPU%20MIPS.pdf)
+> **Note 2**: [PDF](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%207/images/Sprint7%20-%20Desvios%20-%20CPU%20MIPS.pdf)
 
-# Respostas
+# Code
 
-1. Seguindo as configurações mostradas na Figura 1:
-  - Módulo do [Adder Branch](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%207/respostas/Adder_Branch.v);
-  - Módulo do [MuxPCSrc](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%207/respostas/MuxPCSrc.v);
-  - Módulo do [MuxJump](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%207/respostas/MuxJump.v);
-  - Módulo [Porta AND](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%207/respostas/PortaAND.v);
-  - Módulo [Mod_Teste](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%207/respostas/Mod_Teste.v);
+1. Following the configurations shown in Figure 1:
+  - Module [Adder Branch](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%207/respostas/Adder_Branch.v);
+  - Module [MuxPCSrc](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%207/respostas/MuxPCSrc.v);
+  - Module [MuxJump](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%207/respostas/MuxJump.v);
+  - Module [AND Gate](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%207/respostas/PortaAND.v);
+  - Module [Mod_Teste](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%207/respostas/Mod_Teste.v);
 
-2. Para facilitar a criação de novos programas, utilize o executável
-MIPS_Assembler2.exe para converter seus códigos de assembly para código de máquina.
+2. To make it easier to create new programs, use the executable
+MIPS_Assembler2.exe executable to convert your assembly code to machine code.
 
-  - Copie o executável desse [LINK](https://drive.google.com/file/d/1Dcdsc8Fy5DYD08BKTSllc-cblkXqqHu4/view) para a pasta local do seu projeto.
+  - Copy the executable from [LINK](https://drive.google.com/file/d/1Dcdsc8Fy5DYD08BKTSllc-cblkXqqHu4/view) to the local folder of your project.
