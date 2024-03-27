@@ -1,17 +1,15 @@
-# Sprint 10 – Novas funcionalidades
+# Sprint 10 – New features
 
-> **Descrição geral do problema**: Nessa sprint final, cada aluno deverá criar novas funcionalidades para seu
-processador MIPS e utiliza-lo em uma aplicação prática. A criatividade será extremamente valorizada!
+> **General description of the problem**: In this final sprint, each student will have to create new functionalities for their
+MIPS processor and use it in a practical application. Creativity will be highly valued!
 > 
-> **Nota 1**: [Vídeo Explicativo](https://www.youtube.com/watch?v=Jk1Bh8ReVIM) pelo Prof. Rafael.
+> **Note 1**: [Video](https://www.youtube.com/watch?v=Jk1Bh8ReVIM) (Portuguese) by Prof. Rafael.
 > 
-> **Nota 2**: [PDF](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%2010/images/Sprint10%20-%20Novas%20funcionalidades%20-%20CPU%20MIPS.pdf)
+> **Note 2**: [PDF](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%2010/images/Sprint10%20-%20Novas%20funcionalidades%20-%20CPU%20MIPS.pdf) (Portuguese)
 
-# Respostas
+# Code
 
-> **Descrição do projeto**: [Jogo da Velha](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%2010/images/Sprint%2010%20(1).pdf)
->
-> **Nota 3**: [Vídeo Explicativo](https://drive.google.com/file/d/1Vd1tH8Jyzs-5ZHSOEnIuy79pXlHDQCXy/view)
+> **Project description**: [Tic-tac-toe](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%2010/images/Sprint%2010%20(1).pdf)
 
 - [LCD Controller](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%2010/respostas/LCD_Controller.v)
 - [LCD Test](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%2010/respostas/LCD_TEST.v)
