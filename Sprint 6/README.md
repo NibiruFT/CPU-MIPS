@@ -1,15 +1,15 @@
-# Sprint 6 - Memórias
+# Sprint 6 - Memory
 
-> **Descrição geral do problema**: Utilizando a ferramenta megawizard plugin-manager, do Quartus II,
-implemente uma nova memória ROM de instruções, assim como uma memória RAM de dados. Isso
-possibilitará o uso das instruções LW e SW.
+> **General description of the problem**: Using the Quartus II megawizard plugin-manager tool,
+implement a new instruction ROM as well as a data RAM. This
+make it possible to use the LW and SW instructions.
 > 
-> **Nota 1**: [Vídeo Explicativo](https://youtu.be/0Xkp6-G8LPs?t=3) pelo Prof. Rafael.
+> **Nota 1**: [Video](https://youtu.be/0Xkp6-G8LPs?t=3) (Portuguese) by Prof. Rafael.
 > 
-> **Nota 2**: [PDF](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%206/images/Sprint6%20-%20Mem%C3%B3rias%20-%20CPU%20MIPS.pdf)
+> **Nota 2**: [PDF](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%206/images/Sprint6%20-%20Mem%C3%B3rias%20-%20CPU%20MIPS.pdf) (Portuguese)
 
-# Respostas
+# Code
 
-1. Seguindo as configurações mostradas na Figura 1:
-  - Módulo do [MuxDDest](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%206/respostas/MuxDDest.v);
-  - Módulo [Mod_Teste](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%206/respostas/Mod_Teste.v);
+1. Following the configurations shown in Figure 1:
+  - Module [MuxDDest](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%206/respostas/MuxDDest.v);
+  - Module [Mod_Teste](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%206/respostas/Mod_Teste.v);
