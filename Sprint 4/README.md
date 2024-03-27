@@ -4,7 +4,7 @@
 > 
 > **Nota 1**: [Video](https://www.youtube.com/watch?v=0OlZwGGVd30) (Portuguese) by Prof. Rafael.
 > 
-> **Nota 2**: [PDF](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%204/images/Sprint4%20-%20ULA%20-%20CPU%20MIPS.pdf)
+> **Nota 2**: [PDF](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%204/images/Sprint4%20-%20ULA%20-%20CPU%20MIPS.pdf) (Portuguese)
 
 # Code
 
