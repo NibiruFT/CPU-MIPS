@@ -1,15 +1,15 @@
-# Sprint 8 – Entrada e saída paralela
+# Sprint 8 – Parallel input and output
 
-> **Descrição geral do problema**: Incluir uma entrada e uma saída paralela mapeada em memória. Isso finalizará
-o conjunto mínimo de funcionalidades da CPU.
+> **General description of the problem**: Include a parallel input and output mapped in memory. This will finalize
+the minimum set of CPU features.
 > 
-> **Nota 1**: [Vídeo Explicativo](https://www.youtube.com/watch?v=96r6yV-ZW-Q) pelo Prof. Rafael.
+> **Note 1**: [Video](https://www.youtube.com/watch?v=96r6yV-ZW-Q) (Portuguese) by Prof. Rafael.
 > 
-> **Nota 2**: [PDF](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%208/images/Sprint8%20-%20EntradaSa%C3%ADda%20Paralela%20-%20CPU%20MIPS.pdf)
+> **Note 2**: [PDF](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%208/images/Sprint8%20-%20EntradaSa%C3%ADda%20Paralela%20-%20CPU%20MIPS.pdf) (Portuguese)
 
-# Respostas
+# Code
 
-1. Seguindo as configurações mostradas na Figura 1:
-  - Módulo do [Paralell IN](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%208/respostas/Parallel_IN.v);
-  - Módulo do [Paralell OUT](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%208/respostas/Parallel_OUT.v);
-  - Módulo [Mod_Teste](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%208/respostas/Mod_Teste.v) 
+1. Following the configurations shown in Figure 1:
+  - Module [Paralell IN](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%208/respostas/Parallel_IN.v);
+  - Module [Paralell OUT](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%208/respostas/Parallel_OUT.v);
+  - Module [Mod_Teste](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%208/respostas/Mod_Teste.v) 
