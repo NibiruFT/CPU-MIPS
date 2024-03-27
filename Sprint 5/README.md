@@ -1,6 +1,6 @@
 # Sprint 5 - Control Unit
 
-> **General description of the problem: Implement the Control Unit, an instruction ROM and the PC register. These new blocks will make it possible to run 6 types of instructions in MIPS assembly.
+> **General description of the problem**: Implement the Control Unit, an instruction ROM and the PC register. These new blocks will make it possible to run 6 types of instructions in MIPS assembly.
 > 
 > **Nota 1**: [Video](https://www.youtube.com/watch?v=uuh8hP0sY2c) (Portuguese) by Prof. Rafael.
 > 
