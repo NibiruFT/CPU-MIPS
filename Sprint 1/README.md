@@ -1,12 +1,12 @@
-# Sprint 1 - Primeiro Projeto no Quartus II
+# Sprint 1 - First project in Quartus II
 
-> **Descrição geral do problema**: Criar o primeiro projeto no Quartus II e implementar uma Unidade Lógica e Aritmética (ULA) com 2 operações. Soma e Subtração.
+> **General description of the problem**: Create the first project in Quartus II and implement an Arithmetic and Logic Unit (ALU) with 2 operations. Addition and subtraction.
 > 
-> **Nota 1**: [Vídeo Explicativo](https://www.youtube.com/watch?v=bxOywhFKAqA&t=5s) feito pelo Prof. Rafael.
+> **Nota 1**: [Video](https://www.youtube.com/watch?v=bxOywhFKAqA&t=5s) (Portuguese) made by Prof. Rafael.
 > 
-> **Nota 2**: [PDF](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%201/images/Sprint_1.pdf)
+> **Nota 2**: [PDF](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%201/images/Sprint_1.pdf) (Portuguese)
 
 # Respostas
 
-2. [Primeiro Código](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%201/respostas/Primeiro_Codigo.v)
-3. [Circuito Somador/Subtrator](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%201/respostas/Somador_Subtrator.v)
+2. [First Code](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%201/respostas/Primeiro_Codigo.v)
+3. [Adder/Subtractor circuit](https://github.com/NibiruFT/CPU-MIPS/blob/main/Sprint%201/respostas/Somador_Subtrator.v)
