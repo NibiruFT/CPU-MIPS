@@ -3,7 +3,8 @@
 Verilog implementation of a fully functional single-cycle MIPS CPU. The CPU will be able to run at least 10 assembly instructions. You can then program it in assembly or even C. 
 
 <p align="center">
-        <img src="https://www.mips.com/wp-content/uploads/2022/05/smart-microchip-background-3.jpg">
+        <img src="https://sm.ign.com/t/ign_hu/screenshot/default/brand-and-logo-wallpaper-intel-logo-2560x1024_7ub7.1280.jpg"
+             ">
     </a>
 </p>
 
